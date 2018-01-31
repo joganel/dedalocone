@@ -1,0 +1,26 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=41:80:5D:F1:30:F1:57:D2:24:C9:97:8D:DE:77:64:35:C3:F2:58:95%3Bcom.example.dedaloc2.camerat.view
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    41:80:5D:F1:30:F1:57:D2:24:C9:97:8D:DE:77:64:35:C3:F2:58:95
+
+    SHA-1 certificate fingerprint:
+    41:80:5D:F1:30:F1:57:D2:24:C9:97:8D:DE:77:64:35:C3:F2:58:95
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        YOUR_KEY_HERE
+    </string>
+</resources>
